@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://img.shields.io/github/followers/lucasram20?label=Followers&style=social" alt="GitHub followers"/>
-</div>
-
-<br/>
-
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%2358a6ff" width="26" /> About Me
 
 <div align="left">
@@ -49,11 +43,15 @@
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%2358a6ff" width="26" /> GitHub Stats
+## <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%2358a6ff" width="26" /> GitHub Stats & Streaks
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasram20&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasram20&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lucasram20&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -62,12 +60,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lucasram20/lucasram20/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<br/>
-
-## <img src="https://api.iconify.design/lucide/flame.svg?color=%2358a6ff" width="26" /> GitHub Streaks
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lucasram20&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
