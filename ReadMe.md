@@ -46,7 +46,7 @@
 ## <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%2358a6ff" width="26" /> GitHub Stats & Streaks
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasram20&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasram20&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasram20&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
