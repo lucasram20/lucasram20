@@ -5,7 +5,7 @@
 
   <p><img src="https://api.iconify.design/lucide/briefcase.svg?color=%238b949e" width="18" /> <b>Currently working on:</b> Enhancing my skills in web development and AI.</p>
   <p><img src="https://api.iconify.design/lucide/book-open.svg?color=%238b949e" width="18" /> <b>Currently learning:</b> Advanced frontend frameworks, backend architectures, and AI integrations.</p>
-  <p><img src="https://api.iconify.design/lucide/monitor.svg?color=%238b949e" width="18" /> <b>Tech Focus:</b> JavaScript, TypeScript, React, TailwindCSS, and Next.js.</p>
+  <p><img src="https://api.iconify.design/lucide/monitor.svg?color=%238b949e" width="18" /> <b>Tech Focus:</b> JavaScript, TypeScript, React, Next.js, and TailwindCSS.</p>
   <p><img src="https://api.iconify.design/lucide/crosshair.svg?color=%238b949e" width="18" /> <b>Goals:</b> Build impactful open-source projects and craft seamless user experiences.</p>
 </div>
 
@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> 
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
@@ -38,6 +39,7 @@
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" /> 
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/appwrite-%23F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 </p>
 
