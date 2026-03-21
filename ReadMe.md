@@ -4,22 +4,28 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## <img src="https://api.iconify.design/lucide/user.svg?color=%2358a6ff" width="26" /> About Me
 
 <div align="left">
   <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" />
 
-  🔭 **Currently working on:** Enhancing my skills in web development and AI.<br/>
-  🌱 **Currently learning:** Advanced frontend frameworks, backend architectures, and AI integrations.<br/>
-  💻 **Tech Focus:** JavaScript, TypeScript, React, TailwindCSS, and Next.js.<br/>
-  🎯 **Goals:** Build impactful open-source projects and craft seamless user experiences.<br/>
-  ⚡ **Quote:** *"The cheapest, fastest, and most reliable components are those that aren’t there."* — Gordon Bell<br/>
+  <p><img src="https://api.iconify.design/lucide/briefcase.svg?color=%238b949e" width="18" /> <b>Currently working on:</b> Enhancing my skills in web development and AI.</p>
+  <p><img src="https://api.iconify.design/lucide/book-open.svg?color=%238b949e" width="18" /> <b>Currently learning:</b> Advanced frontend frameworks, backend architectures, and AI integrations.</p>
+  <p><img src="https://api.iconify.design/lucide/monitor.svg?color=%238b949e" width="18" /> <b>Tech Focus:</b> JavaScript, TypeScript, React, TailwindCSS, and Next.js.</p>
+  <p><img src="https://api.iconify.design/lucide/crosshair.svg?color=%238b949e" width="18" /> <b>Goals:</b> Build impactful open-source projects and craft seamless user experiences.</p>
 </div>
 
 <br/>
+
+## <img src="https://api.iconify.design/lucide/message-square-quote.svg?color=%2358a6ff" width="26" /> Random Dev Quote
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true" alt="Random Quote" />
+</p>
+
 <br/>
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%2358a6ff" width="26" /> Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> 
@@ -49,35 +55,21 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%2358a6ff" width="26" /> GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasram20&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasram20&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-## 📈 Activity Graph
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%2358a6ff" width="26" /> Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasram20&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </p>
 
-## 🔥 GitHub Streaks
+## <img src="https://api.iconify.design/lucide/flame.svg?color=%2358a6ff" width="26" /> GitHub Streaks
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lucasram20&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucasram20&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/lucasram20">
-    <img src="https://visitcount.itsvg.in/api?id=lucasram20&icon=0&color=0" alt="Profile Views" />
-  </a>
 </p>
