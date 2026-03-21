@@ -1,12 +1,11 @@
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%2358a6ff" width="26" /> About Me
 
 <div align="left">
-  <img align="right" width="300" src="./lain.gif" alt="Serial Experiments Lain" />
-
-  <p><img src="https://api.iconify.design/lucide/briefcase.svg?color=%238b949e" width="18" /> <b>Currently working on:</b> Enhancing my skills in web development and AI.</p>
-  <p><img src="https://api.iconify.design/lucide/book-open.svg?color=%238b949e" width="18" /> <b>Currently learning:</b> Advanced frontend frameworks, backend architectures, and AI integrations.</p>
-  <p><img src="https://api.iconify.design/lucide/monitor.svg?color=%238b949e" width="18" /> <b>Tech Focus:</b> JavaScript, TypeScript, React, Next.js, and TailwindCSS.</p>
-  <p><img src="https://api.iconify.design/lucide/crosshair.svg?color=%238b949e" width="18" /> <b>Goals:</b> Build impactful open-source projects and craft seamless user experiences.</p>
+  <img align="right" width="300" src="./lain.gif" alt="Serial Experiments Lain" hspace="20" />
+  
+  <p>I am a passionate developer who likes learning new stuff and trying things that might piqued my interest.</p>
+  
+  <br clear="both" />
 </div>
 
 <br/>
@@ -29,6 +28,8 @@
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> 
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
