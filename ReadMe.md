@@ -61,7 +61,7 @@
 ## <img src="https://api.iconify.design/lucide/activity.svg?color=%2358a6ff" width="26" /> GitHub Contribution Snake
 
 <p align="center">
-  <img src="./github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/lucasram20/lucasram20/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <br/>
