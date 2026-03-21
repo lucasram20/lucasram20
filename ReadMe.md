@@ -7,7 +7,7 @@
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%2358a6ff" width="26" /> About Me
 
 <div align="left">
-  <img align="right" width="300" src="https://media.tenor.com/Mly52qYQxQkAAAAC/lain-serial-experiments-lain.gif" alt="Serial Experiments Lain" />
+  <img align="right" width="300" src="./lain.gif" alt="Serial Experiments Lain" />
 
   <p><img src="https://api.iconify.design/lucide/briefcase.svg?color=%238b949e" width="18" /> <b>Currently working on:</b> Enhancing my skills in web development and AI.</p>
   <p><img src="https://api.iconify.design/lucide/book-open.svg?color=%238b949e" width="18" /> <b>Currently learning:</b> Advanced frontend frameworks, backend architectures, and AI integrations.</p>
@@ -56,11 +56,15 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasram20&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-## <img src="https://api.iconify.design/lucide/activity.svg?color=%2358a6ff" width="26" /> Activity Graph
+<br/>
+
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%2358a6ff" width="26" /> GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasram20&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+  <img src="./github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
+<br/>
 
 ## <img src="https://api.iconify.design/lucide/flame.svg?color=%2358a6ff" width="26" /> GitHub Streaks
 
