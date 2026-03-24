@@ -49,7 +49,7 @@
 ## <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%2358a6ff" width="26" /> GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lucasram20&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasram20&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
