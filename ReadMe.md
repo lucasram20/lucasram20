@@ -45,7 +45,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasram20&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasram20&theme=dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=lucasram20&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 <br/>
 
