@@ -1,5 +1,4 @@
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%2358a6ff" width="26" /> About Me
-
 <div align="left">
   <img align="right" width="300" src="./lain.gif" alt="Serial Experiments Lain" hspace="20" />
   
@@ -7,19 +6,15 @@
   
   <br clear="both" />
 </div>
-
 <br/>
 
 ## <img src="https://api.iconify.design/lucide/message-square-quote.svg?color=%2358a6ff" width="26" /> Random Dev Quote
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true" alt="Random Quote" />
 </p>
-
 <br/>
 
 ## <img src="https://api.iconify.design/lucide/layers.svg?color=%2358a6ff" width="26" /> Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> 
@@ -43,23 +38,18 @@
   <img src="https://img.shields.io/badge/appwrite-%23F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 </p>
-
 <br/>
 
 ## <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%2358a6ff" width="26" /> GitHub Stats & Streaks
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasram20&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasram20&theme=dark&hide_border=true&layout=compact&v=1" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasram20&theme=dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p>
-
 <br/>
 
 ## <img src="https://api.iconify.design/lucide/activity.svg?color=%2358a6ff" width="26" /> GitHub Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/lucasram20/lucasram20/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
