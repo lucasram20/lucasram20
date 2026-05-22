@@ -1,6 +1,6 @@
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%2358a6ff" width="26" /> About Me
 <div align="left">
-  <img align="right" width="300" src="./lain.gif" alt="Serial Experiments Lain" hspace="20" />
+  <img align="right" width="300" src="./luffy.gif" alt="Serial Experiments Lain" hspace="20" />
   
   <p>I am a passionate developer who likes learning new stuffs and trying things that may piqued my interest.</p>
   
