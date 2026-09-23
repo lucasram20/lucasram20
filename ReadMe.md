@@ -2,7 +2,7 @@
 <div align="left">
   <img align="right" width="300" src="./luffy.gif" alt="Serial Experiments Lain" hspace="20" />
   
-  <p>I am a passionate developer who likes learning new stuffs and trying things that may piqued my interest.</p>
+  <p>I am a passionate developer who likes learning new stuff and trying things that may piqued my interest.</p>
   
   <br clear="both" />
 </div>
